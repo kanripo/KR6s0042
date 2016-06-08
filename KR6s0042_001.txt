@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:02.475205
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID T85n2850
 #+PROPERTY: ID KR6s0042
